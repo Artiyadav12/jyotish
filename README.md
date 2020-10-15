@@ -6,6 +6,8 @@
 
 You can do the following calculations:
 
+00
+
 * calculation of natal chart and varga charts;
 * calculation of bala: Ashtakavarga, Rashi bala, Graha bala;
 * calculation of dasha: Vimshotari, Ashtottari;
